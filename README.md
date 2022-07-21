@@ -2,7 +2,7 @@
 - 👀 I’m interested in trading options
 - 🌱 I’m currently learning how to understand python and soon to learn other languages..
 - 💞️ I’m looking to collaborate on creating fun projects
-- 📫 How to reach me twitter: @d1egohdz
+- 📫 How to reach me... twitter
 
 <!---
 unkonwntrader/unkonwntrader is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
